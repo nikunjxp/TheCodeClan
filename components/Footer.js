@@ -6,7 +6,7 @@ const Footer = () => {
       <p className={styles.text}>
         Made with 💖 by{" "}
         <a
-          href="https://github.com/madzadev"
+          href="hhttps://nikunjxp.github.io/TheCodeClan/"
           target="_blank"
           rel="noreferrer"
           className={styles.link}
